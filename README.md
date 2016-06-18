@@ -41,3 +41,7 @@ Nachfolgend ist die Ordnerstruktur des Blogs erklärt:
   * Hier befindet sich die Datenbankdatei für SQLite.
 * Views/
   * Hier befinden sich die Views die dann für den Benutzer sichtbar sind.
+
+## Installation
+1. Das Repository klonen.
+2. Einstellungen in config.php anpassen.
